@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 1,
+    "flightNumber": 6145,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2017-11-19T05:03:33-01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 8187,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2020-01-19T04:46:43-01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 8336,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LAX",
+    "departureDate": "2018-03-14T02:50:29-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 4023,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2018-03-14T16:40:35-01:00"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 1121,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2017-10-07T06:33:38-02:00"
+  }
+]
